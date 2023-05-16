@@ -1,0 +1,18 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Utama in 'Utama.pas' {Form1},
+  Module in 'Module.pas' {DataModule1: TDataModule},
+  Kategori in 'Kategori.pas' {Form2};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TDataModule1, DataModule1);
+  Application.CreateForm(TForm2, Form2);
+  Application.Run;
+end.

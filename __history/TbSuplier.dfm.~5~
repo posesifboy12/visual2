@@ -1,0 +1,124 @@
+object Form6: TForm6
+  Left = 0
+  Top = 0
+  Caption = 'Form6'
+  ClientHeight = 447
+  ClientWidth = 722
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 72
+    Top = 61
+    Width = 55
+    Height = 13
+    Caption = 'ID SUPLIER'
+  end
+  object Label2: TLabel
+    Left = 72
+    Top = 91
+    Width = 73
+    Height = 13
+    Caption = 'NAMA SUPLIER'
+  end
+  object Label3: TLabel
+    Left = 68
+    Top = 110
+    Width = 40
+    Height = 13
+    Caption = 'ALAMAT'
+  end
+  object Label4: TLabel
+    Left = 68
+    Top = 144
+    Width = 72
+    Height = 13
+    Caption = 'JENIS SUPLIER'
+  end
+  object Label5: TLabel
+    Left = 68
+    Top = 163
+    Width = 44
+    Height = 13
+    Caption = 'TELEPON'
+  end
+  object Label6: TLabel
+    Left = 68
+    Top = 200
+    Width = 84
+    Height = 13
+    Caption = 'TANGGAL ORDER'
+  end
+  object DBGrid1: TDBGrid
+    Left = 40
+    Top = 248
+    Width = 617
+    Height = 120
+    DataSource = DataModule1.DSSuplier
+    TabOrder = 0
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object EIdSuplier: TEdit
+    Left = 168
+    Top = 53
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object ENamaSuplier: TEdit
+    Left = 168
+    Top = 80
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object EAlamat: TEdit
+    Left = 168
+    Top = 107
+    Width = 121
+    Height = 21
+    TabOrder = 3
+  end
+  object EJenisSuplier: TEdit
+    Left = 168
+    Top = 134
+    Width = 121
+    Height = 21
+    TabOrder = 4
+  end
+  object ETelp: TEdit
+    Left = 168
+    Top = 161
+    Width = 121
+    Height = 21
+    TabOrder = 5
+  end
+  object Dtglorder: TDateTimePicker
+    Left = 176
+    Top = 200
+    Width = 186
+    Height = 21
+    Date = 45060.000000000000000000
+    Time = 0.433206817127938800
+    TabOrder = 6
+  end
+  object Button1: TButton
+    Left = 488
+    Top = 160
+    Width = 75
+    Height = 25
+    Caption = 'SIMPAN'
+    TabOrder = 7
+    OnClick = Button1Click
+  end
+end

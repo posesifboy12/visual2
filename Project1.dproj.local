@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/12 21:02:16.000.528,=C:\Users\Sulaiman\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 21:02:52.000.187,C:\Users\Sulaiman\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Utama.dfm</Transaction>
+    <Transaction>2023/05/12 21:02:52.000.187,C:\Users\Sulaiman\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Utama.pas</Transaction>
+    <Transaction>2023/05/12 21:02:55.000.295,C:\Users\Sulaiman\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Project1.dproj</Transaction>
+    <Transaction>2023/05/12 21:03:02.000.159,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit1.pas</Transaction>
+    <Transaction>2023/05/12 21:06:12.000.111,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit1.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Module.pas</Transaction>
+    <Transaction>2023/05/12 21:06:12.000.111,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit1.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Module.dfm</Transaction>
+    <Transaction>2023/05/12 21:07:59.000.538,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit2.pas</Transaction>
+    <Transaction>2023/05/12 21:08:16.000.542,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit2.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Kategori.pas</Transaction>
+    <Transaction>2023/05/12 21:08:16.000.542,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit2.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Kategori.dfm</Transaction>
+    <Transaction>2023/05/12 22:35:45.000.931,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit3.pas</Transaction>
+    <Transaction>2023/05/12 22:38:25.000.198,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbMenu.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit3.dfm</Transaction>
+    <Transaction>2023/05/12 22:38:25.000.198,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbMenu.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit3.pas</Transaction>
+    <Transaction>2023/05/14 08:32:19.000.819,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit4.pas</Transaction>
+    <Transaction>2023/05/14 08:32:42.000.705,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit4.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbBarang.dfm</Transaction>
+    <Transaction>2023/05/14 08:32:42.000.705,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit4.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbBarang.pas</Transaction>
+    <Transaction>2023/05/14 10:06:51.000.128,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit5.pas</Transaction>
+    <Transaction>2023/05/14 10:07:14.000.651,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit5.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbDepar.pas</Transaction>
+    <Transaction>2023/05/14 10:07:14.000.651,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit5.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbDepar.dfm</Transaction>
+    <Transaction>2023/05/14 10:18:45.000.244,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit6.pas</Transaction>
+    <Transaction>2023/05/14 10:19:07.000.706,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit6.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbSuplier.pas</Transaction>
+    <Transaction>2023/05/14 10:19:07.000.706,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit6.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbSuplier.dfm</Transaction>
+    <Transaction>2023/05/14 11:15:58.000.172,=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit7.pas</Transaction>
+    <Transaction>2023/05/14 11:16:13.000.701,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbOrderBarang.pas=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit7.pas</Transaction>
+    <Transaction>2023/05/14 11:16:13.000.701,D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\TbOrderBarang.dfm=D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual2\Unit7.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

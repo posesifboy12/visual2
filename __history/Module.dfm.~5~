@@ -1,0 +1,75 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 215
+  Width = 473
+  object ZConnection1: TZConnection
+    ControlsCodePage = cCP_UTF16
+    Catalog = ''
+    Properties.Strings = (
+      'controls_cp=CP_UTF16')
+    Connected = True
+    HostName = 'localhost'
+    Port = 3306
+    Database = '2110020014'
+    User = 'root'
+    Password = ''
+    Protocol = 'mysql'
+    LibraryLocation = 
+      'D:\kuliah\SEMESTAR 4\Visual 2\tugas\MuhammadRizhaFahrijal_Visual' +
+      '2\libmysql .dll'
+    Left = 56
+    Top = 24
+  end
+  object ZLogin: TZQuery
+    Connection = ZConnection1
+    Active = True
+    SQL.Strings = (
+      'SELECT * FROM login ORDER BY username ASC')
+    Params = <>
+    Left = 40
+    Top = 80
+  end
+  object DataSource1: TDataSource
+    DataSet = ZLogin
+    Left = 88
+    Top = 96
+  end
+  object ZMenu: TZQuery
+    Connection = ZConnection1
+    Active = True
+    SQL.Strings = (
+      'SELECT * FROM tb_menu ORDER BY id_menu ASC')
+    Params = <>
+    Left = 256
+    Top = 64
+    object ZMenuid_menu: TIntegerField
+      DisplayLabel = 'ID MENU'
+      FieldName = 'id_menu'
+      Required = True
+    end
+    object ZMenumenu: TWideStringField
+      DisplayLabel = 'MENU'
+      DisplayWidth = 20
+      FieldName = 'menu'
+      Required = True
+      Size = 100
+    end
+    object ZMenuurl: TWideStringField
+      DisplayLabel = 'URL'
+      DisplayWidth = 20
+      FieldName = 'url'
+      Required = True
+      Size = 100
+    end
+    object ZMenulevel: TIntegerField
+      DisplayLabel = 'LEVEL'
+      FieldName = 'level'
+      Required = True
+    end
+  end
+  object DsMenu: TDataSource
+    DataSet = ZMenu
+    Left = 248
+    Top = 120
+  end
+end
